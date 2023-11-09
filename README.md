@@ -1,8 +1,7 @@
 # Тестовый репозиторий
 ## Изучение возможностей Git и GitHub
 ***
-> Подробные шпаргалки по Marcdown
->[Link](http://a.com)
+>[Подробные шпаргалки по Marcdown](https://commonmark.org/help/)
 ***
 * Элемент списка
 * Выгрузка файлов из _PyCharm_ на _GitHub_
