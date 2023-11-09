@@ -2,7 +2,7 @@
 ## Изучение возможностей Git и GitHub
 ***
 > Подробные шпаргалки по Marcdown
-> [Link](https://commonmark.org/help/)
+>[Link](http://a.com)
 ***
 * Элемент списка
 * Выгрузка файлов из _PyCharm_ на _GitHub_
