@@ -6,7 +6,7 @@
 * Элемент списка
 * Выгрузка файлов из _PyCharm_ на _GitHub_
 * Оформление репозитория с помощью _Marcdown_ 
-I I I
+```
 class BasicWord:
     def __init__(self, word, subwords):
         self.word = word
@@ -14,3 +14,4 @@ class BasicWord:
 
     def __repr__(self):
         return 'Слово ' + self.word
+```
